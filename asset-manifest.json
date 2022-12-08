@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ru7j4o/static/css/main.57a331f7.chunk.css",
+    "main.js": "https://.github.io/csb-ru7j4o/static/js/main.893d0cf3.chunk.js",
+    "main.js.map": "https://.github.io/csb-ru7j4o/static/js/main.893d0cf3.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ru7j4o/static/js/runtime-main.de7e0106.js",
+    "runtime-main.js.map": "https://.github.io/csb-ru7j4o/static/js/runtime-main.de7e0106.js.map",
+    "static/js/2.6e88521b.chunk.js": "https://.github.io/csb-ru7j4o/static/js/2.6e88521b.chunk.js",
+    "static/js/2.6e88521b.chunk.js.map": "https://.github.io/csb-ru7j4o/static/js/2.6e88521b.chunk.js.map",
+    "index.html": "https://.github.io/csb-ru7j4o/index.html",
+    "static/css/main.57a331f7.chunk.css.map": "https://.github.io/csb-ru7j4o/static/css/main.57a331f7.chunk.css.map",
+    "static/js/2.6e88521b.chunk.js.LICENSE.txt": "https://.github.io/csb-ru7j4o/static/js/2.6e88521b.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://.github.io/csb-ru7j4o/static/media/sunny.714d7872.jpg",
+    "static/media/play.013f9881.png": "https://.github.io/csb-ru7j4o/static/media/play.013f9881.png",
+    "static/media/sleep.f6cfa97a.png": "https://.github.io/csb-ru7j4o/static/media/sleep.f6cfa97a.png",
+    "static/media/study.cbf497ea.png": "https://.github.io/csb-ru7j4o/static/media/study.cbf497ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de7e0106.js",
+    "static/js/2.6e88521b.chunk.js",
+    "static/css/main.57a331f7.chunk.css",
+    "static/js/main.893d0cf3.chunk.js"
+  ]
+}
